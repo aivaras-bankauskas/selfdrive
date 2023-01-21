@@ -1,0 +1,19 @@
+{
+  "name": "selfdrive",
+  "version": "1.0.0",
+  "description": "Radu Mariescu-Istodor \"Self-driving Car with JavaScript tutorial\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aivaras-bankauskas/selfdrive.git"
+  },
+  "author": "Aivaras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aivaras-bankauskas/selfdrive/issues"
+  },
+  "homepage": "https://github.com/aivaras-bankauskas/selfdrive#readme"
+}
